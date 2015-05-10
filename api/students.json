@@ -1,0 +1,530 @@
+{
+  "students": [
+    {
+      "name": "Stanley Caden",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "name": "Jacob Logan",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "B"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "c"
+        }
+      ]
+    },
+    {
+      "id":1,
+      "name": "Logan owen",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "henry Logan",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "C"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "C"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name": "Eli Joshua",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A+"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name": "Eli Caden",
+      "age": 15,
+      "class": "1-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "b-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "name": "Gavin Evan",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "b+"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "b"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name": "Evan Caden",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "b-"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "a"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "name": "Stanley Gavin",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "b-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "c"
+        }
+      ]
+    },
+    {
+      "id":8,
+      "name": "Stanley Caden",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":9,
+      "name": "Stanley Christian",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":10,
+      "name": "Christian Caden",
+      "age": 15,
+      "class": "2-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":11,
+      "name": "Max Brayden",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":12,
+      "name": "Isaac Caden",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":13,
+      "name": "Issac Gabriel",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":14,
+      "name": "Gabriel Christian",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "b"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":15,
+      "name": "Max Julian",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":16,
+      "name": "Isaiah Adam",
+      "age": 15,
+      "class": "4-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":17,
+      "name": "charrlie Caden",
+      "age": 15,
+      "class": "4-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "b"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":18,
+      "name": "Leo Xavier",
+      "age": 15,
+      "class": "4-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "c"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "b"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":19,
+      "name": "Eli Joshua",
+      "age": 12,
+      "class": "1-2",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "A"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "B+"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    },
+    {
+      "id":20,
+      "name": "Eli Joshua",
+      "age": 15,
+      "class": "3-b",
+      "courses": [
+        {
+          "courseName": "math",
+          "courseGrade": "C"
+        },
+        {
+          "courseName": "physics",
+          "courseGrade": "A-"
+        },
+        {
+          "courseName": "algebra",
+          "courseGrade": "A+"
+        },
+        {
+          "courseName": "english",
+          "courseGrade": "B"
+        }
+      ]
+    }
+  ]
+}

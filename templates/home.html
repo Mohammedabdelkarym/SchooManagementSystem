@@ -1,0 +1,52 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="page-header">
+                <h2>
+                    Welcome : {{homeCtr.user.name}}
+                    <span class="label label-primary">{{homeCtr.user.position}}</span>
+                </h2>
+            </div>
+            <ul class="list-group">
+                <li class="list-group-item">Name : {{homeCtr.user.name}}</li>
+                <li class="list-group-item">Age : {{homeCtr.user.age}}</li>
+                <li class="list-group-item">You'r responsible for class : {{homeCtr.user.class}}</li>
+                <li class="list-group-item">Phonenumber : {{homeCtr.user.phoneNumber}}</li>
+                <li class="list-group-item">Username : {{homeCtr.user.username}}</li>
+            </ul>
+        </div>
+        <div class="col-lg-6">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Search Teachers</h3>
+                    <form name="searchTeachers">
+                        <div class="form-group">
+                            <label for="phoneNumber">PhoneNumber</label>
+                            <input type="text" class="form-control" id="phoneNumber" placeholder="PhoneNumber" ng-model="homeCtr.teacherSearchKeywards.phoneNumber">
+                        </div>
+                        <div class="form-group">
+                            <label for="userName">UserName</label>
+                            <input type="text" class="form-control" id="userName" placeholder="UserName" ng-model="homeCtr.teacherSearchKeywards.teacherName">
+                        </div>
+                        <button class="btn btn-default" ng-click="homeCtr.searchTeachers()">Search</button>
+                    </form>
+                </div>
+                </br>
+                <div class="col-lg-12">
+                    <h3>Search Students</h3>
+                    <form name="searchStudents">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" id="name" placeholder="Student name" ng-model="homeCtr.studnetSearchKeywards.studentName">
+                        </div>
+                        <div class="form-group">
+                            <label for="class">Password</label>
+                            <input type="text" class="form-control" id="class" placeholder="Student class" ng-model="homeCtr.studnetSearchKeywards.class">
+                        </div>
+                        <button type="submit" class="btn btn-default" ng-click="homeCtr.searchStudents()">Search</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,67 @@
+{
+  "teachers":[
+        {
+          "id":127,
+          "name": "Mohammed abdelakrym",
+          "age": 33,
+          "class": "1-b",
+          "phoneNumber": "361-973-5632"
+        },
+        {
+          "id":137,
+          "name": "Farouq Zazouq",
+          "age": 40,
+          "class": "2-b",
+          "phoneNumber": "245-973-3422"
+        },
+        {
+          "id":147,
+          "name": "Fawy Caden",
+          "age": 36,
+          "class": "3-b",
+          "phoneNumber": "978-973-3927"
+        },
+        {
+          "id": 157,
+          "name": "Mohab Sandy",
+          "age": 28,
+          "class": "3-b",
+          "phoneNumber": "674-732-8932"
+        },
+        {
+          "id":142,
+          "name": "Caden Mohab",
+          "age": 24,
+          "class": "3-w",
+          "phoneNumber": "132-313-8932"
+        },
+    {
+      "id": 532,
+      "name": "Mohab Sandy",
+      "age": 28,
+      "class": "2-h",
+      "phoneNumber": "674-732-8932"
+    },
+    {
+      "id":873,
+      "name": "Caden Sandy",
+      "age": 25,
+      "class": "3-b",
+      "phoneNumber": "674-253-8932"
+    },
+    {
+      "id": 157,
+      "name": "Mohab George",
+      "age": 29,
+      "class": "8-b",
+      "phoneNumber": "674-453-8932"
+    },
+    {
+      "id":421,
+      "name": "Kenneth Sandy",
+      "age": 38,
+      "class": "3-b",
+      "phoneNumber": "222-624-3353"
+    }
+  ]
+}

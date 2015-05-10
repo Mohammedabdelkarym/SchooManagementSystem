@@ -1,0 +1,47 @@
+<div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">@</span>
+    <input type="text" class="form-control" placeholder="Search by Username or Class" aria-describedby="basic-addon1" ng-model="tsrCtr.search">
+</div>
+</br>
+
+<div class="panel panel-default">
+    <div class="panel-heading">Teachers  <span class="pull-right"> ---Click any title in header to order asc or desc---</span></div>
+    <table class="table">
+        <thead>
+        <tr>
+            <th ng-click="tsrCtr.orderBy('id')">
+                Id
+            </th>
+            <th ng-click="tsrCtr.orderBy('name')">
+                Name
+            </th>
+            <th ng-click="tsrCtr.orderBy('age')">
+                Age
+            </th>
+            <th >
+                Class
+            </th>
+            <th>
+                Phone Number
+            </th>
+        </tr>
+        </thead>
+        <tr ng-repeat="teacher in tsrCtr.teachers | filter:tsrCtr.search | orderBy:tsrCtr.sortBy:tsrCtr.reverse">
+            <td>
+                {{teacher.id}}
+            </td>
+            <td>
+                {{teacher.name}}
+            </td>
+            <td>
+                {{teacher.age}}
+            </td>
+            <td>
+                {{teacher.class}}
+            </td>
+            <td>
+                {{teacher.phoneNumber}}
+            </td>
+        </tr>
+    </table>
+</div>

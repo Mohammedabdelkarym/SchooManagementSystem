@@ -1,0 +1,12 @@
+footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+.mainContainer{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
